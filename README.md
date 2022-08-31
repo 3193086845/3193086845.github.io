@@ -1,28 +1,159 @@
-# 3193086845.github.io
-<div class="big-box" id="bigBox">
-    <div class="item item1">
-        <h1>屏幕1我是陈飞扬</h1>
-    </div>
-    <div class="item item2">
-        <h1>屏幕2我喜欢一个女孩</h1>
-    </div>
-    <div class="item item3">
-        <h1>屏幕3叫做翁康晨</h1>
-    </div>
-    <div class="item item4">
-        <h1>屏幕4你懂得</h1>
-    </div>
-    <div class="item item5">
-        <h1>屏幕5,,</h1>
-    </div>
-</div>
-<ul class="controls">
-    <li class="active">1</li>
-    <li>2</li>
-    <li>3</li>
-    <li>4</li>
-    <li>5</li>
-</ul>
-<img src="" alt="">![飞扬](https://user-images.githubusercontent.com/112525286/187574906-f28b28a7-dcde-4441-84ab-9bf1b9653df4.jpg)
-<body background="![v2-f77e75995c247c301c564ad74e812fd5_r](https://user-images.githubusercontent.com/112525286/187576644-ef9498a6-b159-4018-900e-543ac2a416a8.jpg)
-"></body>
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>明金同学个人网页</title>
+		<style type="text/css">
+			/* CSS Document */
+			* {
+				margin: 0;
+				padding: 0;
+			}
+
+			a {
+				text-decoration: none;
+			}
+
+			.clearfix:after {
+				content: "";
+				display: block;
+				height: 0;
+				visibility: hidden;
+				clear: both;
+			}
+
+			.clearfix {
+				*zoom: 1;
+			}
+
+			body {
+				background: url(https://gitee.com/vmu/cimg/raw/master/img/bg.jpg) no-repeat;
+				background-size: cover;
+				background-attachment: fixed;
+			}
+
+			.content {
+				width: 900px;
+				height: 500px;
+				margin: 200px auto 0 auto;
+				border-radius: 10px;
+				background-color: rgba(236, 236, 236, 0.59);
+				transition: all 1.0s;
+				/*box-shadow: 0px 0px 20px rgba(0,0,0,0.3);*/
+			}
+
+			.content img {
+				float: left;
+				width: 200px;
+				height: 200px;
+				margin: 150px 0 0 80px;
+				border-radius: 100px;
+
+			}
+
+			.content:hover {
+				box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.52);
+			}
+
+			.content_r {
+				float: right;
+				width: 500px;
+				margin: 80px 60px 0 0;
+				/*	background-color: pink;*/
+			}
+
+			.content_l {
+				float: left;
+				width: 100%;
+				text-align: center;
+			}
+
+			.content_l h5 {
+
+				font-size: 17px;
+			}
+
+			.cc {
+				margin-top: 10px;
+				color: #1F2023;
+				font-size: 18px;
+			}
+
+			.color_1 {
+				color: #4855EC;
+				font-size: 18px;
+			}
+
+			.deeppink {
+				color: deeppink;
+			}
+
+			.link {
+				margin-top: 30px;
+			}
+
+			.link a {
+				display: block;
+				float: left;
+				width: 120px;
+				height: 45px;
+				margin: 5px 5px 0 0;
+				/*	padding: 0 15px;*/
+				color: #fff;
+				line-height: 45px;
+				transition: all 0.8s;
+				/*	background-color: deeppink;*/
+
+			}
+
+			.link a:hover {
+				background-color: rgba(0, 201, 243, 0.35);
+			}
+
+			.deeppink_1 {
+				background-color: deeppink;
+			}
+
+			.dodgerblue {
+				background-color: dodgerblue;
+			}
+
+			.magenta {
+				background-color: magenta;
+			}
+
+			.orange {
+				background-color: orange;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="content">
+			<img src="https://gitee.com/vmu/cimg/raw/master/img/ch.jpg" alt="">
+			<div class="content_r clearfix">
+				<div class="content_l clearfix">
+					<h2>Hi~ 我是明金同学， Welcome here ！</h2>
+					<p class="cc">欢迎来到我的主页，一位热爱编程的小渣渣~</p>
+					<p class="cc">爱好计算机，会去自学一些感兴趣的东西 !</p>
+					<br>
+					<p class="color_1">I am an ambitious salted fish!</p>
+					<p class="color_1">我是一位有野心的咸鱼!</p>
+					<br>
+					<p class="deeppink">只要路是对的，就不怕路远。</p>
+					<p class="deeppink">As long as the road is right, you are not afraid of the distance.</p>
+					<div class="link">
+						<a href="#" class="dodgerblue" target="_blank">官网</a>
+						<a href="https://ymjin.blog.csdn.net/" class="deeppink_1" target="_blank">QQ群</a>
+						<a href="https://ymjin.blog.csdn.net/" class="magenta" target="_blank">个人博客</a>
+						<a href="https://ymjin.blog.csdn.net/" class="orange" target="_blank">网易云音乐</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>
+
+————————————————
