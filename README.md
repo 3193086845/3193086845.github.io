@@ -29,7 +29,8 @@
 
 			body {![6a947018821f45f9119b6cfd3cd88bad](https://user-images.githubusercontent.com/112525286/187579718-41492d40-6b31-45e1-8f05-521a1153c2d8.jpg)
 
-				background: url(https://gitee.com/vmu/cimg/raw/master/img/bg.jpg) no-repeat;
+				background: ![6a947018821f45f9119b6cfd3cd88bad](https://user-images.githubusercontent.com/112525286/187580320-d7edeb08-83e5-41e5-846c-34d149192ffd.jpg]
+;
 				background-size: cover;
 				background-attachment: fixed;
 			}
