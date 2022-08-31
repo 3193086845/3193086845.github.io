@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>小徐同学个人网页</title>
+		<title>明金同学个人网页</title>
 		<style type="text/css">
 			/* CSS Document */
 			* {
@@ -27,10 +27,8 @@
 				*zoom: 1;
 			}
 
-			body {![6a947018821f45f9119b6cfd3cd88bad](https://user-images.githubusercontent.com/112525286/187579718-41492d40-6b31-45e1-8f05-521a1153c2d8.jpg)
-
-				background: ![6a947018821f45f9119b6cfd3cd88bad](https://user-images.githubusercontent.com/112525286/187580320-d7edeb08-83e5-41e5-846c-34d149192ffd.jpg]
-;
+			body {
+				background: url(https://gitee.com/vmu/cimg/raw/master/img/bg.jpg) no-repeat;
 				background-size: cover;
 				background-attachment: fixed;
 			}
@@ -124,7 +122,8 @@
 			.magenta {
 				background-color: magenta;
 			}
-
+                                   <body background="">![6a947018821f45f9119b6cfd3cd88bad](https://user-images.githubusercontent.com/112525286/187585348-4257eceb-dfc3-47a7-b4a7-4fbc2d33be71.jpg)
+</body>
 			.orange {
 				background-color: orange;
 			}
@@ -138,14 +137,15 @@
 				<div class="content_l clearfix">
 					<h2>Hi~ 我是小徐同学， Welcome here ！</h2>
 					<p class="cc">欢迎来到我的主页~</p>
-					<p class="cc">爱好玩游戏 !</p>
+					<p class="cc">爱好计算机，会去自学一些感兴趣的东西 !</p>
 					<br>
 					<p class="color_1">I am an ambitious salted fish!</p>
 					<p class="color_1">我是一位有野心的咸鱼!</p>
 					<br>
 					<p class="deeppink">只要路是对的，就不怕路远。</p>
-				<body background="![6a947018821f45f9119b6cfd3cd88bad](https://user-images.githubusercontent.com/112525286/187584979-8bb6a49b-b5e7-4355-bc0f-592b138d87c6.jpg)
-">
-	
+					<p class="deeppink">As long as the road is right, you are not afraid of the distance.</p>
+					
+	</body>
 
+</html>
 
